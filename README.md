@@ -6,6 +6,7 @@ This course is organized by the following schedule...
 # week 1  Introduction to HTML  ()
 
  - Development Environment Setup 
+    º
  - HTML Basics  
  - Essential HTML tags 
  - Final week Test Score =  
