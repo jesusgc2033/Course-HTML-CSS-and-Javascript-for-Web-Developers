@@ -1,19 +1,17 @@
 HTML CSS AND JAVASCRIP COURSE ROADMAP :
 
 Starting Course day 12 march 2021 - Finished by : 
-This course is organized by the following schedule...
+This course is organized by the following schedule.
 
 Github course repository: https://github.com/jhu-ep-coursera/fullstack-course4
 
 # week 1  Introduction to HTML  ()
 
  - Development Environment Setup 
-    º
  - HTML Basics  
  - Essential HTML tags 
- - Final week Test Score =  
- - Week project link = 
-  
+ - Final week Test Score : 100%
+ - Week finished : March 21 , 2021
   
 # week 2 Introduction to CSS3
 
@@ -22,9 +20,10 @@ Github course repository: https://github.com/jhu-ep-coursera/fullstack-course4
  - The Box Model and Layout
  - Introduction to Responsive Design
  - Introduction to Twitter Bootstrap
- - Week project link = 
- - Final week Test Score = 
- 
+ - Week project link :
+ - week Finished :
+
+
 # week 3 Coding a Static Restaurant Site Project
 
  - Coding the Static Restaurant Site
