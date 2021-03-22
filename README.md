@@ -20,7 +20,7 @@ Github course repository: https://github.com/jhu-ep-coursera/fullstack-course4
  - The Box Model and Layout
  - Introduction to Responsive Design
  - Introduction to Twitter Bootstrap
- - Week project link :
+ - Week project link : https://github.com/jesusgc2033/module2-solution.git
  - week Finished :
 
 
